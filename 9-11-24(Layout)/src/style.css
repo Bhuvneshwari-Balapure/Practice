@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    padding: 5px;
+    background-color: yellow;
+    color: blue;
+}
+.about{
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.AboutPages{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    gap: 20px;
+}
+.aboutleft{
+    width: 100%;
+}
+.aboutleft ul  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    list-style: none;
+    gap: 20px;
+    
+}
+.aboutright{
+    padding: 5px;
+}
+.about_txt{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+    text-align: justify;
+}
