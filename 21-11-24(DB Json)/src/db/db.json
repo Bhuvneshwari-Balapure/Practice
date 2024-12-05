@@ -1,0 +1,34 @@
+{
+    "student" : [
+        {
+            "rollno" : 121,
+            "name" : "ayushi",
+            "course": "FullStack",
+            "fees":40000
+        },
+        {
+            "rollno" : 122,
+            "name" : "prachi",
+            "course": "FullStack",
+            "fees":40000
+        },
+        {
+            "rollno" : 123,
+            "name" : "priya",
+            "course": "FullStack",
+            "fees":40000
+        },
+        {
+            "rollno" : 124,
+            "name" : "aadya",
+            "course": "FullStack",
+            "fees":40000
+        },   {
+            "rollno" : 125,
+            "name" : "Nitya",
+            "course": "FullStack",
+            "fees":40000
+        }
+
+    ]
+}
